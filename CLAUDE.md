@@ -20,7 +20,7 @@
 
 ## 画面(ブラウザ側のコード)
 
-公開サイト: https://fj8kumo-works.github.io/tsumipura-soudanjo/
+公開サイト: https://nonengineer-vibe.github.io/tsumipura-soudanjo/
 `main` に push するとすぐに公開される。リポジトリは Public。
 
 ### 利用者向けの画面では supabase-js を使わない

@@ -174,7 +174,7 @@ node scripts/hj_import/verify_import.mjs               件数・別名検索・�
 
 ## 公開(GitHub Pages)
 
-- 公開先: https://fj8kumo-works.github.io/tsumipura-soudanjo/
+- 公開先: https://nonengineer-vibe.github.io/tsumipura-soudanjo/
 - 設定: リポジトリの **Settings** → **Pages** で、Source が **Deploy from a branch**、Branch が **main** / **/(root)**
 - `main` に push すると、1〜2分で自動的に公開し直される(公開の状態は **Actions** タブの「pages build and deployment」で見られる)
 - `.nojekyll` を置いているので、ファイルはそのままの形で公開される
